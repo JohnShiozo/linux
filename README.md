@@ -2,7 +2,7 @@
 
 # PlayStation 2 Linux kernel
 
-This Linux kernel branch implements the [o32 ABI](https://www.linux-mips.org/wiki/MIPS_ABI_History) for the Sony [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2).
+This Linux kernel branch implements the [o32 ABI](https://www.linux-mips.org/wiki/MIPS_ABI_History) for the Sony [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2)
 
 ```
 # uname -mrs
